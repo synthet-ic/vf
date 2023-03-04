@@ -1,7 +1,5 @@
-/*!
-UFO3 <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/#opentype-head-table-fields>
-OpenType <https://learn.microsoft.com/en-gb/typography/opentype/spec/head>
-*/
+//! - UFO3 <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/#opentype-head-table-fields>
+//! - OpenType <https://learn.microsoft.com/en-gb/typography/opentype/spec/head>
 
 // use std::time::Duration;
 

@@ -1,14 +1,10 @@
-/*!
-UFO3 <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/#opentype-vhea-table-fields>
-OpenType <https://learn.microsoft.com/en-gb/typography/opentype/spec/vhea>
-*/
+//! - UFO3 <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/#opentype-vhea-table-fields>
+//! - OpenType <https://learn.microsoft.com/en-gb/typography/opentype/spec/vhea>
 
 /// OpenType `vhea` Table Fields
 #[derive(Debug)]
 pub struct VerticalHeader {
-    /**
-    Ascender value. Corresponds to the OpenType vhea table `vertTypoAscender` field.
-    */
+    /// Ascender value. Corresponds to the OpenType vhea table `vertTypoAscender` field.
     vert_typo_ascender: Option<i32>,
     ///
     vert_typo_descender: Option<i32>,

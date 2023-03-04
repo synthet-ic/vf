@@ -1,5 +1,5 @@
-//! UFO3 <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/#opentype-gasp-table-fields>
-//! OpenType <https://learn.microsoft.com/en-us/typography/opentype/spec/gasp>
+//! - UFO3 <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/#opentype-gasp-table-fields>
+//! - OpenType <https://learn.microsoft.com/en-us/typography/opentype/spec/gasp>
 
 /// OpenType `gasp` Table Fields
 #[derive(Debug)]

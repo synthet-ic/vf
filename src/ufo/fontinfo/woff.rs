@@ -1,7 +1,5 @@
-/*!
-UFO3 <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/#woff-data>
-W3C <https://www.w3.org/TR/WOFF/>
-*/
+//! - UFO3 <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/#woff-data>
+//! - W3C <https://www.w3.org/TR/WOFF/>
 
 
 /// WOFF Data

@@ -1,6 +1,4 @@
-/*!
-<https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/>
-*/
+//! <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/>
 
 pub mod guidelines;
 pub mod opentype;

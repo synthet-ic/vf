@@ -1,7 +1,5 @@
-/*!
-UFO3 <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/#opentype-name-table-fields>
-OpenType <https://learn.microsoft.com/en-us/typography/opentype/spec/name>
-*/
+//! - UFO3 <https://unifiedfontobject.org/versions/ufo3/fontinfo.plist/#opentype-name-table-fields>
+//! - OpenType <https://learn.microsoft.com/en-us/typography/opentype/spec/name>
 
 /// OpenType `name` Table Fields
 #[derive(Debug)]
