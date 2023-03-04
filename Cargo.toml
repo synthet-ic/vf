@@ -1,0 +1,15 @@
+[package]
+name = "vf"
+version = "0.0.0"
+edition = "2021"
+description = "Rust variable fonts buider"
+license = "MIT/Apache-2.0"
+keywords = ["variable-fonts"]
+homepage = "https://github.com/synthet-ic/vf"
+documentation = "https://docs.rs/vf"
+rust-version = "1.62.0"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
