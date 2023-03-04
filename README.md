@@ -1,2 +1,3 @@
-# vf
+# VF
+
 Rust variable fonts builder
