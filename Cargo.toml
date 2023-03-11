@@ -2,7 +2,7 @@
 name = "vf"
 version = "0.0.0"
 edition = "2021"
-description = "Rust variable fonts buider"
+description = "A variable fonts (VF) build system for mathematical typesetting"
 license = "MIT/Apache-2.0"
 keywords = ["variable-fonts"]
 homepage = "https://github.com/synthet-ic/vf"
